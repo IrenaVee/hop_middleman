@@ -63,14 +63,19 @@ body {
   height: 100px;
   z-index: 25;
   position: absolute;
-  background-color: #000000;
-    p {
-      padding-top:40px;
-      text-align: center;
-      font-family: 'BaltoBookBold', sans-serif;
-      color: #FF6347;
-      font-size: 25px;
-    }
+  background-color: #FF6347;
+  padding-top: 60px;
+  padding-left: 15px;
+}
+
+.logo-text {
+  font-family: 'BaltoBookBold', sans-serif;
+  color: #000000;
+  font-size: 30px;
+}
+
+.logo-img {
+  margin-top: 10
 }
 
 .search{
